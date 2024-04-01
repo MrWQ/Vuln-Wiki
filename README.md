@@ -166,6 +166,7 @@ convmv -f gb2312 -t UTF-8 --notest -r ./Vulnerability-Wiki/docs-base/docs --repl
 
 ## 0x06 更新日志
 
+- 2024.04.01 重构目录
 - 2022.12.05 图片本地化，修复Dockerfile
 - 2022.08.24 更新部分漏洞，增加ISSUES提示
 - 2022.07.15 新增docs-0sec release

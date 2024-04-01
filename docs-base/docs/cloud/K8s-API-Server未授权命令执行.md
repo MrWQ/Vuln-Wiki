@@ -167,4 +167,3 @@ $ nc -lvp 4444
 ```
 chroot /mnt
 ```
-
